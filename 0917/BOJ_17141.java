@@ -1,4 +1,17 @@
-package prac;
+/*
+백준 17141 연구실2 - ko509
+
+메모리 48408kb	
+시간 320ms
+
+1. 세균 놓을 수 있는 위치 list에 수집
+2. list에서 M개 선택하는 조합
+3. 선택된 위치 포함해서 room 복사
+4. 바이러스를 bfs로 확산 -> 각 위치에 타임스탬프 찍기
+5. 찍힌 값 중 최댓값 리턴 -> 이 최댓값들 중 가장 작은 값 찾기
+
+
+*/
 
 import java.io.BufferedReader;
 import java.io.IOException;
