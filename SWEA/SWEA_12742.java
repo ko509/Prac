@@ -1,4 +1,10 @@
-package _0928;
+/*
+
+아이디어 :
+
+두 막대의 차이는 큰쪽의 순서번호와 같다
+
+*/
 
 import java.io.BufferedReader;
 import java.io.IOException;
