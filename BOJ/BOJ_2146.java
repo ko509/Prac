@@ -33,9 +33,7 @@ public class BOJ_2146 {
 			}
 		}
 		
-		for (int i = 0; i < map.length; i++) {
-			System.out.println(Arrays.toString(map[i]));
-		}
+		
 		int min = Integer.MAX_VALUE;
 		
 		for (int i = 0; i < N; i++) {
