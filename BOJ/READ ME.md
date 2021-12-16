@@ -5,9 +5,9 @@
 <!-- Gold : 5(11), 4(12), 3(13), 2(14), 1(15) -->
 <!-- <img src="https://static.solved.ac/tier_small/*LEVEL*.svg" height="18px" /> | [*NO*](http://noj.am/*NO*) | *TITLE* -->
 
-레벨 | 번호 | 제목 
-:-: | :-: | :-:
-<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1107](http://noj.am/1107) | 리모컨 
+레벨 | 번호 | 제목 | 날짜
+:-: | :-: | :-: | :-:
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1107](http://noj.am/1107) | 리모컨 | 1105
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [1302](http://noj.am/1302) | 베스트셀러 | 1203
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1427](http://noj.am/1427) | 소트인사이드 | 1203
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1541](http://noj.am/1541) | 잃어버린 괄호 | 1204
