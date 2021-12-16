@@ -1,6 +1,6 @@
-## Prac
+# Prac
 
-# 백준
+## 백준
 
 <!-- Bronze : 5(1), 4(2), 3(3), 2(4), 1(5) -->
 <!-- Silver : 5(6), 4(7), 3(8), 2(9), 1(10) -->
@@ -27,7 +27,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16918](http://noj.am/16918) | 봄버맨 | 20211209
 
 
-# SW Expert Academy
+## SW Expert Academy
 
 지금까지 푼 문제
 
