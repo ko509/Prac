@@ -13,6 +13,7 @@
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1541](http://noj.am/1541) | 잃어버린 괄호 | 20211204
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2146](http://noj.am/2146) | 다리만들기 | 20211013
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2164](http://noj.am/2164) | 카드2 | 20211209
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2573](http://noj.am/2573) | 빙산 | 20211221
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2636](http://noj.am/2636) | 치즈 | 20211007
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2638](http://noj.am/2638) | 치즈 | 20211211
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2667](http://noj.am/2667) | 단지번호붙이기 | 20210929
