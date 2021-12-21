@@ -23,7 +23,7 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [14501](http://noj.am/14501) | 퇴사 | 20211211
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14503](http://noj.am/14503) | 로봇청소기 | 20211210
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16236](http://noj.am/16236) | 아기상어 | 20211013
-<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16918](http://noj.am/16918) | 봄버맨 | 20211209
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16918](http://noj.am/16918) | 봄버맨 | 20211209
 
 
 
