@@ -13,6 +13,7 @@
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1541](http://noj.am/1541) | 잃어버린 괄호 | 20211204
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2146](http://noj.am/2146) | 다리만들기 | 20211013
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2164](http://noj.am/2164) | 카드2 | 20211209
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2193](http://noj.am/2193) | 이친수 | 20211222
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2573](http://noj.am/2573) | 빙산 | 20211221
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2636](http://noj.am/2636) | 치즈 | 20211007
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2638](http://noj.am/2638) | 치즈 | 20211211
@@ -22,8 +23,10 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [13335](http://noj.am/13335) | 트럭 | 20211204
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [14501](http://noj.am/14501) | 퇴사 | 20211211
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14503](http://noj.am/14503) | 로봇청소기 | 20211210
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [15661](http://noj.am/15661) | 링크와 스타트 | 20211222
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16236](http://noj.am/16236) | 아기상어 | 20211013
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16918](http://noj.am/16918) | 봄버맨 | 20211209
+
 
 
 
