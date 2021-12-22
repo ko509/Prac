@@ -26,6 +26,8 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11497](http://noj.am/11497) | 통나무건너뛰기 | 2021.12.14
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [3190](http://noj.am/3190) | 뱀 | 2021.12.16
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2573](http://noj.am/2573) | 빙산 | 2021.12.21
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [15661](http://noj.am/15661) | 링크와 스타트 | 2021.12.22
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2193](http://noj.am/2193) | 이친수 | 2021.12.22
 
 
 ## SW Expert Academy
