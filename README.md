@@ -28,6 +28,8 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2573](http://noj.am/2573) | 빙산 | 2021.12.21
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [15661](http://noj.am/15661) | 링크와 스타트 | 2021.12.22
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2193](http://noj.am/2193) | 이친수 | 2021.12.22
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1339](http://noj.am/1339) | 단어 수학 | 2022.01.02
+
 
 
 ## SW Expert Academy
