@@ -29,7 +29,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16236](http://noj.am/16236) | 아기상어 | 20211013
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16918](http://noj.am/16918) | 봄버맨 | 20211209
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16948](http://noj.am/16948) | 데스 나이트 | 20220106
-<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [20055](http://noj.am/20055) | 컨베이어 벨트 위의 로봇| 20220106
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [20055](http://noj.am/20055) | 컨베이어 벨트 위의 로봇| 20220105
 
 
 
