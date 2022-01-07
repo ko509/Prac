@@ -29,7 +29,9 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [15661](http://noj.am/15661) | 링크와 스타트 | 2021.12.22
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2193](http://noj.am/2193) | 이친수 | 2021.12.22
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1339](http://noj.am/1339) | 단어 수학 | 2022.01.02
-
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [20055](http://noj.am/20055) | 컨베이어 벨트 위의 로봇 | 2022.01.05
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [11559](http://noj.am/11559) | 뿌요뿌요 | 2022.01.06
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16948](http://noj.am/16948) | 데스 나이트 | 2022.01.06
 
 
 ## SW Expert Academy
