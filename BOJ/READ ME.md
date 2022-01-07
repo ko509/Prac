@@ -21,12 +21,15 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2667](http://noj.am/2667) | 단지번호붙이기 | 20210929
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [3190](http://noj.am/3190) | 뱀 | 20211216
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11497](http://noj.am/11497) | 통나무건너뛰기 | 20211214
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [11559](http://noj.am/11559) | 뿌요뿌요 | 20220106
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [13335](http://noj.am/13335) | 트럭 | 20211204
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [14501](http://noj.am/14501) | 퇴사 | 20211211
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14503](http://noj.am/14503) | 로봇청소기 | 20211210
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [15661](http://noj.am/15661) | 링크와 스타트 | 20211222
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16236](http://noj.am/16236) | 아기상어 | 20211013
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16918](http://noj.am/16918) | 봄버맨 | 20211209
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16948](http://noj.am/16948) | 데스 나이트 | 20220106
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [20055](http://noj.am/20055) | 컨베이어 벨트 위의 로봇| 20220106
 
 
 
