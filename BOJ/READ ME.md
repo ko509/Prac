@@ -20,6 +20,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2638](http://noj.am/2638) | 치즈 | 20211211
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2667](http://noj.am/2667) | 단지번호붙이기 | 20210929
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [3190](http://noj.am/3190) | 뱀 | 20211216
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [5052](http://noj.am/5052) | 전화번호 목록 | 20220112
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [9935](http://noj.am/9935) | 문자열폭발 | 20220112
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11497](http://noj.am/11497) | 통나무건너뛰기 | 20211214
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [11559](http://noj.am/11559) | 뿌요뿌요 | 20220106
