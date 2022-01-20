@@ -34,6 +34,8 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16948](http://noj.am/16948) | 데스 나이트 | 2022.01.06
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [9935](http://noj.am/9935) | 문자열폭발 | 2022.01.12
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [5052](http://noj.am/5052) | 전화번호 목록 | 2022.01.12
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [16234](http://noj.am/16234) | 인구 이동 | 2022.01.20
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [5430](http://noj.am/5430) | AC | 2022.01.20
 
 
 
