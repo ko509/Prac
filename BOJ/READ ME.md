@@ -32,8 +32,11 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [16234](http://noj.am/16234) | 인구 이동 | 20220120
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16236](http://noj.am/16236) | 아기상어 | 20211013
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16918](http://noj.am/16918) | 봄버맨 | 20211209
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16928](http://noj.am/16928) | 뱀과 사다리 게임
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16948](http://noj.am/16948) | 데스 나이트 | 20220106
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [20055](http://noj.am/20055) | 컨베이어 벨트 위의 로봇| 20220105
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [21610](http://noj.am/21610) | 마법사 상어와 비바라기
+
 
 
 
