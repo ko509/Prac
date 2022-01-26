@@ -38,6 +38,7 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [5430](http://noj.am/5430) | AC | 2022.01.20
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16928](http://noj.am/16928) | 뱀과 사다리 게임 | 2022.01.24
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [21610](http://noj.am/21610) | 마법사 상어와 비바라기 | 2022.01.26
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1013](http://noj.am/1013) | Contact | 2022.01.26
 
 
 
