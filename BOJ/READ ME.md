@@ -10,6 +10,7 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1013](http://noj.am/1013) | Contact | 20220126
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1107](http://noj.am/1107) | 리모컨 | 20211105
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [1302](http://noj.am/1302) | 베스트셀러 | 20211203
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1309](http://noj.am/1309) | 동물원 | 20220127
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1339](http://noj.am/1339) | 단어 수학 | 20220102
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1427](http://noj.am/1427) | 소트인사이드 | 20211203
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1541](http://noj.am/1541) | 잃어버린 괄호 | 20211204
