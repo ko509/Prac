@@ -29,9 +29,7 @@ public class BOJ_1927 {
 				}
 			}else {
 				que.offer(n);
-				System.out.println(Arrays.toString(que.toArray()));
 			}
-			System.out.println(sb);
 		}
 		System.out.println(sb);
 	}
