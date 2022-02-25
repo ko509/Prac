@@ -14,6 +14,8 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1339](http://noj.am/1339) | 단어 수학 | 20220102
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1427](http://noj.am/1427) | 소트인사이드 | 20211203
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1541](http://noj.am/1541) | 잃어버린 괄호 | 20211204
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1806](http://noj.am/1806) | 부분합 | 20220225
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1927](http://noj.am/1927) | 최소 힙 | 20220225
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2146](http://noj.am/2146) | 다리만들기 | 20211013
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2164](http://noj.am/2164) | 카드2 | 20211209
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2193](http://noj.am/2193) | 이친수 | 20211222
