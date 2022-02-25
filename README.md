@@ -42,6 +42,9 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1309](http://noj.am/1309) | 동물원 |2022.01.27
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [13913](http://noj.am/13913) | 숨바꼭질4 | 2022.02.02
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2022](http://noj.am/2022) | 사다리 | 2022.02.02
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1927](http://noj.am/1927) | 최소 힙 | 2022.02.25
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1806](http://noj.am/1806) | 부분합 | 2022.02.25
+
 
 
 
