@@ -6,6 +6,8 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.StringTokenizer;
 
+// 시간 : 564ms
+// 메모리 : 105464KB
 public class BOJ_2531 {
 
 	public static void main(String[] args) throws IOException {
