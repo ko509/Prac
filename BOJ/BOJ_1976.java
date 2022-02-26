@@ -3,6 +3,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// 시간 : 124ms
+// 메모리 : 15596KB
 public class BOJ_1976 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
