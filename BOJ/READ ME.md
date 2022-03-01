@@ -34,6 +34,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [13335](http://noj.am/13335) | 트럭 | 20211204
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [14501](http://noj.am/14501) | 퇴사 | 20211211
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14503](http://noj.am/14503) | 로봇청소기 | 20211210
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [14658](http://noj.am/14658) | 영단어 암기는 괴로워 | 20220228
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [15661](http://noj.am/15661) | 링크와 스타트 | 20211222
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [16234](http://noj.am/16234) | 인구 이동 | 20220120
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16236](http://noj.am/16236) | 아기상어 | 20211013
@@ -41,6 +42,8 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16928](http://noj.am/16928) | 뱀과 사다리 게임 | 20220124
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16948](http://noj.am/16948) | 데스 나이트 | 20220106
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [20055](http://noj.am/20055) | 컨베이어 벨트 위의 로봇| 20220105
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20056](http://noj.am/20056) | 마법사 상어와 파이어볼 | 20220301
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20920](http://noj.am/20920) | 하늘에서 별똥별이 빗발친다 | 20220228
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [21610](http://noj.am/21610) | 마법사 상어와 비바라기 | 20220126
 
 
