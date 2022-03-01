@@ -37,6 +37,7 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [14658](http://noj.am/14658) | 영단어 암기는 괴로워 | 20220228
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [15661](http://noj.am/15661) | 링크와 스타트 | 20211222
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [16234](http://noj.am/16234) | 인구 이동 | 20220120
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16235](http://noj.am/16235) | 나무 재테크 | 20220301
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16236](http://noj.am/16236) | 아기상어 | 20211013
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16918](http://noj.am/16918) | 봄버맨 | 20211209
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16928](http://noj.am/16928) | 뱀과 사다리 게임 | 20220124
