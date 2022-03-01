@@ -46,7 +46,9 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1806](http://noj.am/1806) | 부분합 | 2022.02.25
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2531](http://noj.am/2531) | 회전초밥 | 2022.02.26
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1976](http://noj.am/1976) | 여행 가자 | 2022.02.26
-
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [14658](http://noj.am/14658) | 영단어 암기는 괴로워 | 2022.02.28
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20920](http://noj.am/20920) | 하늘에서 별똥별이 빗발친다 | 2022.02.28
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20056](http://noj.am/20056) | 마법사 상어와 파이어볼 | 2022.03.01
 
 
 
