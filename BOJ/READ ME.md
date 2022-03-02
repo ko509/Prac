@@ -42,6 +42,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16918](http://noj.am/16918) | 봄버맨 | 20211209
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16928](http://noj.am/16928) | 뱀과 사다리 게임 | 20220124
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [16948](http://noj.am/16948) | 데스 나이트 | 20220106
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17142](http://noj.am/17142) | 연구소3 | 20220302
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [20055](http://noj.am/20055) | 컨베이어 벨트 위의 로봇| 20220105
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20920](http://noj.am/20920) | 마법사 상어와 파이어볼 | 20220301
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20056](http://noj.am/20056) | 하늘에서 별똥별이 빗발친다 | 20220228
