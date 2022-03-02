@@ -50,6 +50,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [14658](http://noj.am/14658) | 하늘에서 별똥별이 빗발친다 | 2022.02.28
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20056](http://noj.am/20056) | 마법사 상어와 파이어볼 | 2022.03.01
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16235](http://noj.am/16235) | 나무 재테크 | 2022.03.01
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17142](http://noj.am/17142) | 연구소3 | 2022.03.02
 
 
 
