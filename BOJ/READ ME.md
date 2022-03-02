@@ -47,6 +47,8 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20920](http://noj.am/20920) | 마법사 상어와 파이어볼 | 20220301
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20056](http://noj.am/20056) | 하늘에서 별똥별이 빗발친다 | 20220228
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [21610](http://noj.am/21610) | 마법사 상어와 비바라기 | 20220126
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [23842](http://noj.am/23842) | 성냥개비 | 20220302
+
 
 
 
