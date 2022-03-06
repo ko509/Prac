@@ -57,6 +57,7 @@
 <img src="https://static.solved.ac/tier_small/4.svg" height="18px"/> | [13458](http://noj.am/13458) | 시험감독 | 2022.03.05
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1037](http://noj.am/1037) | 약수 | 2022.03.05
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [17427](http://noj.am/17427) | 약수의 합 | 2022.03.06
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [20057](https://www.acmicpc.net/problem/20057) | 마법사 상어와 토네이도 | 2022.03.06
 
 
 
