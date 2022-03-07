@@ -59,6 +59,8 @@
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [17427](http://noj.am/17427) | 약수의 합 | 2022.03.06
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [20057](https://www.acmicpc.net/problem/20057) | 마법사 상어와 토네이도 | 2022.03.06
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | 2022.03.07
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2606](https://www.acmicpc.net/problem/2606) | 바이러스 | 2022.03.07
+
 
 
 
