@@ -61,6 +61,7 @@
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2609](https://www.acmicpc.net/problem/2609) | 최대공약수와 최소공배수 | 2022.03.07
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2606](https://www.acmicpc.net/problem/2606) | 바이러스 | 2022.03.07
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14891](https://www.acmicpc.net/problem/14891) | 톱니바퀴 | 2022.03.08
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [15685](https://www.acmicpc.net/problem/15685) | 드래곤 커브 | 2022.03.08
 
 
 
