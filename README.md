@@ -66,6 +66,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [15684](https://www.acmicpc.net/problem/15684) | 사다리 조작 | 2022.03.11
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [6588](http://noj.am/6588) | 골드바흐의 추측 | 2022.03.11
 <img src="https://static.solved.ac/tier_small/4.svg" height="18px"/> | [2309](http://noj.am/2309) | 일곱 난쟁이 | 2022.03.12
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [15649](http://noj.am/15649) | N과 M (1) | 2022.03.13
 
 
 
