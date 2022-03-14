@@ -67,6 +67,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [6588](http://noj.am/6588) | 골드바흐의 추측 | 2022.03.11
 <img src="https://static.solved.ac/tier_small/4.svg" height="18px"/> | [2309](http://noj.am/2309) | 일곱 난쟁이 | 2022.03.12
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [15649](http://noj.am/15649) | N과 M (1) | 2022.03.13
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [15650](http://noj.am/15650) | N과 M (2) | 2022.03.14
 
 
 
