@@ -69,6 +69,7 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [15649](http://noj.am/15649) | N과 M (1) | 2022.03.13
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [15650](http://noj.am/15650) | N과 M (2) | 2022.03.14
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1946](http://noj.am/1946) | 신입 사원 | 2022.03.15
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [17822](http://noj.am/17822) | 원판 돌리기 | 2022.03.15
 
 
 
