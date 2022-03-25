@@ -73,6 +73,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [14888](http://noj.am/14888) | 연산자 끼워넣기 | 2022.03.16
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2812](https://www.acmicpc.net/problem/2812) | 크게 만들기 | 2022.03.24
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [18429](https://www.acmicpc.net/problem/18429) | 근손실 | 2022.03.25
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2668](http://noj.am/2668) | 숫자고르기 | 2022.03.26
 
 
 
