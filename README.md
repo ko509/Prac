@@ -75,6 +75,8 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [18429](https://www.acmicpc.net/problem/18429) | 근손실 | 2022.03.25
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2668](http://noj.am/2668) | 숫자고르기 | 2022.03.26
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2628](http://noj.am/2628) | 종이자르기 | 2022.03.28
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [7562](http://noj.am/7562) | 나이트의 이동 | 2022.03.29
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [14886](http://noj.am/14886) | 스타트와 링크 | 2022.03.29
 
 
 
