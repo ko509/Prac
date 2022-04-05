@@ -77,6 +77,7 @@
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2628](http://noj.am/2628) | 종이자르기 | 2022.03.28
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [7562](http://noj.am/7562) | 나이트의 이동 | 2022.03.29
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [14886](http://noj.am/14886) | 스타트와 링크 | 2022.03.29
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [14890](http://noj.am/14890) | 경사로 | 2022.04.05
 
 
 
