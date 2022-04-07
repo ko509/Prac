@@ -81,6 +81,7 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2589](http://noj.am/2589) | 경사로 | 2022.04.05
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17135](http://noj.am/17135) | 캐슬 디펜스 | 2022.04.06
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1476](http://noj.am/1476) | 날짜 계산 | 2022.04.07
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [15651](http://noj.am/15651) | N과 M (3) | 2022.04.07
 
 
 
