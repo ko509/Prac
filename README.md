@@ -85,6 +85,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [21608](http://noj.am/21608) | 상어 초등학교 | 2022.04.10
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2174](http://noj.am/2174) | 로봇 시뮬레이션 | 2022.04.11
 <img src="https://static.solved.ac/tier_small/2.svg" height="18px"/> | [15610](http://noj.am/15610) | Abbey Courtyard | 2022.04.12
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17779](http://noj.am/17779) | 게리맨더링 | 2022.04.13
 
 
 
