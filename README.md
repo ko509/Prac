@@ -87,6 +87,7 @@
 <img src="https://static.solved.ac/tier_small/2.svg" height="18px"/> | [15610](http://noj.am/15610) | Abbey Courtyard | 2022.04.12
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17779](http://noj.am/17779) | 게리맨더링2 | 2022.04.13
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [21609](http://noj.am/21609) | 상어 중학교 | 2022.04.14
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [11000](http://noj.am/11000) | 강의실 배정 | 2022.04.15
 
 
 
