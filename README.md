@@ -90,6 +90,7 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [11000](http://noj.am/11000) | 강의실 배정 | 2022.04.15
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1012](http://noj.am/1012) | 유기농 배추 | 2022.04.16
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2644](http://noj.am/2644) | 촌수계산 | 2022.04.16
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [6064](http://noj.am/6064) | 카잉 달력 | 2022.04.16
 
 
 
