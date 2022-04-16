@@ -89,6 +89,7 @@
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [21609](http://noj.am/21609) | 상어 중학교 | 2022.04.14
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [11000](http://noj.am/11000) | 강의실 배정 | 2022.04.15
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1012](http://noj.am/1012) | 유기농 배추 | 2022.04.16
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2644](http://noj.am/2644) | 촌수계산 | 2022.04.16
 
 
 
