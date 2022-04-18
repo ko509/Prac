@@ -92,6 +92,7 @@
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2644](http://noj.am/2644) | 촌수계산 | 2022.04.16
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [6064](http://noj.am/6064) | 카잉 달력 | 2022.04.16
 <img src="https://static.solved.ac/tier_small/2.svg" height="18px"/> | [16600](http://noj.am/16600) | Contemporary Art | 2022.04.17
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20058](http://noj.am/20058) | 마법사 상어와 파이어스톰 | 2022.04.18
 
 
 
