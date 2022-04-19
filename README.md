@@ -95,6 +95,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20058](http://noj.am/20058) | 마법사 상어와 파이어스톰 | 2022.04.18
 <img src="https://static.solved.ac/tier_small/1.svg" height="18px"/> | [2475](http://noj.am/2475) | 검증수 | 2022.04.18
 <img src="https://static.solved.ac/tier_small/4.svg" height="18px"/> | [2920](http://noj.am/2920) | 음계 | 2022.04.18
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [14499](http://noj.am/14499) | 주사위 굴리기 | 2022.04.19
 
 
 
