@@ -96,6 +96,7 @@
 <img src="https://static.solved.ac/tier_small/1.svg" height="18px"/> | [2475](http://noj.am/2475) | 검증수 | 2022.04.18
 <img src="https://static.solved.ac/tier_small/4.svg" height="18px"/> | [2920](http://noj.am/2920) | 음계 | 2022.04.18
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [14499](http://noj.am/14499) | 주사위 굴리기 | 2022.04.19
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1018](http://noj.am/1018) | 체스판 다시 칠하기 | 2022.04.19
 
 
 
