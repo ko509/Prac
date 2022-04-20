@@ -98,6 +98,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [14499](http://noj.am/14499) | 주사위 굴리기 | 2022.04.19
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1018](http://noj.am/1018) | 체스판 다시 칠하기 | 2022.04.19
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [12764](http://noj.am/12764) | 싸지방에 간 준하 | 2022.04.20
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [17070](http://noj.am/17070) | 파이프 옮기기 1 | 2022.04.20
 
 
 
