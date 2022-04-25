@@ -101,6 +101,7 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [17070](http://noj.am/17070) | 파이프 옮기기 1 | 2022.04.20
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1181](http://noj.am/1181) | 단어 정렬 | 2022.04.21
 <img src="https://static.solved.ac/tier_small/5.svg" height="18px"/> | [1259](http://noj.am/1259) | 팰린드롬수 | 2022.04.22
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [9019](http://noj.am/9019) | DSLR | 2022.04.25
 
 
 
