@@ -102,6 +102,7 @@
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1181](http://noj.am/1181) | 단어 정렬 | 2022.04.21
 <img src="https://static.solved.ac/tier_small/5.svg" height="18px"/> | [1259](http://noj.am/1259) | 팰린드롬수 | 2022.04.22
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [9019](http://noj.am/9019) | DSLR | 2022.04.25
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [23288](http://noj.am/23288) | 주사위 굴리기 2 | 2022.04.26
 
 
 
