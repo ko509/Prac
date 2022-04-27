@@ -105,6 +105,7 @@
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [23288](http://noj.am/23288) | 주사위 굴리기 2 | 2022.04.26
 <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [23290](http://noj.am/23290) | 마법사 상어와 복제 | 2022.04.26
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2212](http://noj.am/2212) | 센서 | 2022.04.27
+<img src="https://static.solved.ac/tier_small/16.svg" height="18px"/> | [23291](http://noj.am/23291) | 어항 정리 | 2022.04.28
 
 
 
