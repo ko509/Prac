@@ -109,6 +109,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2116](http://noj.am/2116) | 주사위 쌓기 | 2022.04.28
 <img src="https://static.solved.ac/tier_small/16.svg" height="18px"/> | [23289](http://noj.am/23289) | 온풍기 안녕! | 2022.04.28
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [17825](http://noj.am/17825) | 주사위 윷놀이 | 2022.04.29
+<img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [19237](http://noj.am/19237) | 어른 상어 | 2022.04.30
 
 
 
