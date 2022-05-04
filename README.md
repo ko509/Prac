@@ -115,6 +115,7 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1654](http://noj.am/1654) | 랜선 자르기 | 2022.05.03
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1759](http://noj.am/1759) | 암호 만들기 | 2022.05.04
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1874](http://noj.am/1874) | 스택 수열 | 2022.05.04
+<img src="https://static.solved.ac/tier_small/.svg" height="18px"/> | [1920](http://noj.am/1920) | 수 찾기 | 2022.05.04
 
 
 
