@@ -113,6 +113,7 @@
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [1436](http://noj.am/1436) | 영화 감독 숌 | 2022.05.02
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1041](http://noj.am/1041) | 주사위 | 2022.05.03
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1654](http://noj.am/1654) | 랜선 자르기 | 2022.05.03
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1759](http://noj.am/1759) | 암호 만들기 | 2022.05.04
 
 
 
