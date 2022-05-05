@@ -122,6 +122,7 @@
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2805](http://noj.am/2805) | 나무 자르기 | 2022.05.05
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [4949](http://noj.am/4949) | 균형 잡힌 세상 | 2022.05.06
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [9012](http://noj.am/9012) | 괄호 | 2022.05.06
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [10773](http://noj.am/10773) | 제로 | 2022.05.06
 
 
 
