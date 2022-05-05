@@ -119,6 +119,7 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1966](http://noj.am/1966) | 프린터 큐 | 2022.05.04
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2108](http://noj.am/2108) | 통계학 | 2022.05.05
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2751](http://noj.am/2751) | 수 정렬하기 2 | 2022.05.05
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2805](http://noj.am/2805) | 나무 자르기 | 2022.05.05
 
 
 
