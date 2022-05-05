@@ -117,6 +117,7 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1874](http://noj.am/1874) | 스택 수열 | 2022.05.04
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [1920](http://noj.am/1920) | 수 찾기 | 2022.05.04
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1966](http://noj.am/1966) | 프린터 큐 | 2022.05.04
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2108](http://noj.am/2108) | 통계학 | 2022.05.05
 
 
 
