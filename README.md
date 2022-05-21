@@ -124,6 +124,7 @@
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [9012](http://noj.am/9012) | 괄호 | 2022.05.06
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [10773](http://noj.am/10773) | 제로 | 2022.05.06
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [10814](http://noj.am/10814) | 나이순정렬 | 2022.05.21
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [10816](http://noj.am/10816) | 숫자 카드 2 | 2022.05.21
 
 
 
