@@ -127,6 +127,7 @@
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [10816](http://noj.am/10816) | 숫자 카드 2 | 2022.05.21
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [10828](http://noj.am/10828) | 스택 | 2022.05.21
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [10845](http://noj.am/10845) | 큐 | 2022.05.21
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [10866](http://noj.am/10866) | 덱 | 2022.05.21
 
 
 
