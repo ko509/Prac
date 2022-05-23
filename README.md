@@ -129,6 +129,7 @@
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [10845](http://noj.am/10845) | 큐 | 2022.05.21
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [10866](http://noj.am/10866) | 덱 | 2022.05.21
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [10989](http://noj.am/10989) | 수 정렬하기 3 | 2022.05.23
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [11650](http://noj.am/11650) | 좌표 정렬하기 | 2022.05.23
 
 
 
