@@ -133,6 +133,7 @@
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [11651](http://noj.am/11651) | 좌표 정렬하기 2 | 2022.05.23
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [11866](http://noj.am/11866) | 요세푸스 문제 0 | 2022.05.23
 <img src="https://static.solved.ac/tier_small/4.svg" height="18px"/> | [15829](http://noj.am/15829) | Hashing | 2022.05.23
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [18111](http://noj.am/18111) | 마인크래프트 | 2022.05.23
 
 
 
