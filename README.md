@@ -131,6 +131,7 @@
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [10989](http://noj.am/10989) | 수 정렬하기 3 | 2022.05.23
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [11650](http://noj.am/11650) | 좌표 정렬하기 | 2022.05.23
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [11651](http://noj.am/11651) | 좌표 정렬하기 2 | 2022.05.23
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [11866](http://noj.am/11866) | 요세푸스 문제 0 | 2022.05.23
 
 
 
