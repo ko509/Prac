@@ -136,6 +136,7 @@
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [18111](http://noj.am/18111) | 마인크래프트 | 2022.05.23
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1003](http://noj.am/1003) | 피보나치함수 | 2022.05.23
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1389](http://noj.am/1389) | 케빈 베이컨의 6단계 법칙 | 2022.05.24
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2580](http://noj.am/2580) | 스도쿠 | 2022.05.24
 
 
 
