@@ -138,6 +138,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1389](http://noj.am/1389) | 케빈 베이컨의 6단계 법칙 | 2022.05.24
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2580](http://noj.am/2580) | 스도쿠 | 2022.05.24
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1074](http://noj.am/1074) | Z | 2022.05.24
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1062](http://noj.am/1062) | 가르침 | 2022.05.25
 
 
 
