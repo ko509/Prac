@@ -141,6 +141,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1062](http://noj.am/1062) | 가르침 | 2022.05.25
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [1620](http://noj.am/1620) | 나는야 포켓몬 마스터 이다솜 | 2022.05.25
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [16986](http://noj.am/16986) | 인싸들의 가위바위보 | 2022.05.26
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [1676](http://noj.am/1676) | 팩토리얼 0의 개수 | 2022.05.26
 
 
 
