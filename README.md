@@ -144,6 +144,7 @@
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [1676](http://noj.am/1676) | 팩토리얼 0의 개수 | 2022.05.26
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1726](http://noj.am/1726) | 로봇 | 2022.05.30
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1697](http://noj.am/1697) | 숨바꼭질 | 2022.05.30
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [6593](http://noj.am/6593) | 상범 빌딩 | 2022.05.31
 
 
 
