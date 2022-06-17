@@ -150,6 +150,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16954](http://noj.am/16954) | 움직이는 미로 탈출 | 2022.06.08
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1240](http://noj.am/1240) | 노드 사이의 거리 | 2022.06.14
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [10026](http://noj.am/10026) | 적록색약 | 2022.06.15
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1043](http://noj.am/1043) | 거짓말 | 2022.06.17
 
 
 
