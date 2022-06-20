@@ -152,6 +152,7 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [10026](http://noj.am/10026) | 적록색약 | 2022.06.15
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1043](http://noj.am/1043) | 거짓말 | 2022.06.17
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1092](http://noj.am/1092) | 배 | 2022.06.20
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1780](http://noj.am/1780) | 종이의 개수 | 2022.06.20
 
 
 
