@@ -155,6 +155,7 @@
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [1780](http://noj.am/1780) | 종이의 개수 | 2022.06.20
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1253](http://noj.am/1253) | 좋다 | 2022.06.24
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [14938](http://noj.am/14938) | 서강그라운드 | 2022.06.30
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1931](http://noj.am/1931) | 회의실 배정 | 2022.06.30
 
 
 
