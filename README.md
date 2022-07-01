@@ -158,6 +158,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1931](http://noj.am/1931) | 회의실 배정 | 2022.06.30
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2178](http://noj.am/2178) | 미로 탐색 | 2022.06.30
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2096](http://noj.am/2096) | 내려가기 | 2022.07.01
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2579](http://noj.am/2579) | 계단 오르기 | 2022.07.01
 
 
 
