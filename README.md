@@ -206,4 +206,5 @@ D4 | 3289 | 서로소집합 | 2022.01.07
 level3 | 42579 | 베스트앨범 | 2022.03.03ㅣ
 level3 | [링크](https://programmers.co.kr/learn/courses/30/lessons/43162) | 네트워크 | 2022.03.10
 level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/60057) | 문자열 압축 | 2022.03.23
-
+level1 | [42862](https://programmers.co.kr/learn/courses/30/lessons/42862) | 체육복 | 2022.07.08
+level2 | [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | 큰 수 만들기 | 2022.07.08
