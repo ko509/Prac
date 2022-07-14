@@ -208,3 +208,4 @@ level3 | [링크](https://programmers.co.kr/learn/courses/30/lessons/43162) | �
 level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/60057) | 문자열 압축 | 2022.03.23
 level1 | [42862](https://programmers.co.kr/learn/courses/30/lessons/42862) | 체육복 | 2022.07.08
 level2 | [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | 큰 수 만들기 | 2022.07.08
+level3 | [42861](https://programmers.co.kr/learn/courses/30/lessons/42861) | 섬 연결하기 | 2022.07.14
