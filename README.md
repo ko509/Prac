@@ -163,6 +163,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2141](http://noj.am/2141) | 우체국 | 2022.07.05
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1939](http://noj.am/1939) | 중량제한 | 2022.07.14
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2437](http://noj.am/2437) | 저울 | 2022.07.15
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [9461](http://noj.am/9461) | 파도반 수열 | 2022.07.15
 
 
 
