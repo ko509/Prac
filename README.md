@@ -167,7 +167,8 @@
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [11047](http://noj.am/11047) | 동전 0 | 2022.07.15
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [11279](http://noj.am/11279) | 최대 힙 | 2022.07.15
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11286](http://noj.am/11286) | 절댓값 힙 | 2022.07.15
-<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11403](http://noj.am/11403) | 경로  | 2022.07.15
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11403](http://noj.am/11403) | 경로 찾기  | 2022.07.15
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [11659](http://noj.am/11659) | 구간 합 구하기 4  | 2022.07.15
 
 
 
