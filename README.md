@@ -161,6 +161,8 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2579](http://noj.am/2579) | 계단 오르기 | 2022.07.01
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [7569](http://noj.am/7569) | 토마토 | 2022.07.01
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2141](http://noj.am/2141) | 우체국 | 2022.07.05
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1939](http://noj.am/1939) | 중량제한 | 2022.07.14
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2437](http://noj.am/2437) | 저울 | 2022.07.15
 
 
 
