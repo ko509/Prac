@@ -166,6 +166,7 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [9461](http://noj.am/9461) | 파도반 수열 | 2022.07.15
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [11047](http://noj.am/11047) | 동전 0 | 2022.07.15
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [11279](http://noj.am/11279) | 최대 힙 | 2022.07.15
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11286](http://noj.am/11286) | 절댓값 힙 | 2022.07.15
 
 
 
