@@ -165,6 +165,7 @@
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2437](http://noj.am/2437) | 저울 | 2022.07.15
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [9461](http://noj.am/9461) | 파도반 수열 | 2022.07.15
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [11047](http://noj.am/11047) | 동전 0 | 2022.07.15
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [11279](http://noj.am/11279) | 최대 힙 | 2022.07.15
 
 
 
