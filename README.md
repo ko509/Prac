@@ -169,6 +169,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11286](http://noj.am/11286) | 절댓값 힙 | 2022.07.15
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11403](http://noj.am/11403) | 경로 찾기  | 2022.07.15
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [11659](http://noj.am/11659) | 구간 합 구하기 4  | 2022.07.15
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [11723](http://noj.am/11723) | 집합  | 2022.07.16
 
 
 
