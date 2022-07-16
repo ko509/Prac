@@ -171,6 +171,7 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [11659](http://noj.am/11659) | 구간 합 구하기 4  | 2022.07.15
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [11723](http://noj.am/11723) | 집합 | 2022.07.16
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [11724](http://noj.am/11724) | 연결 요소의 개수 | 2022.07.16
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [11726](http://noj.am/11726) | 2xn 타일링 | 2022.07.16
 
 
 
