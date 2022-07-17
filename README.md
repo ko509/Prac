@@ -174,6 +174,7 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [11726](http://noj.am/11726) | 2xn 타일링 | 2022.07.16
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [11727](http://noj.am/11727) | 2xn 타일링 2 | 2022.07.17
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [17219](http://noj.am/17219) | 비밀번호 찾기 | 2022.07.17
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14500](http://noj.am/14500) | 테트로미노 | 2022.07.18
 
 
 
