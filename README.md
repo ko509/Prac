@@ -176,6 +176,7 @@
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [17219](http://noj.am/17219) | 비밀번호 찾기 | 2022.07.17
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14500](http://noj.am/14500) | 테트로미노 | 2022.07.18
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [17626](http://noj.am/17626) | Four Squares | 2022.07.18
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [18870](http://noj.am/18870) | 좌표 압축 | 2022.07.18
 
 
 
