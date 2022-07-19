@@ -178,6 +178,8 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [17626](http://noj.am/17626) | Four Squares | 2022.07.18
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [18870](http://noj.am/18870) | 좌표 압축 | 2022.07.18
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [1167](http://noj.am/1167) | 트리의 지름 | 2022.07.19
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1238](http://noj.am/1238) | 파티 | 2022.07.19
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1504](http://noj.am/1504) | 특정한 최단 경로 | 2022.07.19
 
 
 
