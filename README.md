@@ -177,6 +177,7 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14500](http://noj.am/14500) | 테트로미노 | 2022.07.18
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [17626](http://noj.am/17626) | Four Squares | 2022.07.18
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [18870](http://noj.am/18870) | 좌표 압축 | 2022.07.18
+<img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [1167](http://noj.am/1167) | 트리의 지름 | 2022.07.19
 
 
 
