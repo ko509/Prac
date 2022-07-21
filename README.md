@@ -185,6 +185,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1932](http://noj.am/1932) | 정수 삼각형 | 2022.07.21
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1967](http://noj.am/1967) | 트리의 지름 | 2022.07.21
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [1918](http://noj.am/1918) | 후위 표기식 | 2022.07.21
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1991](http://noj.am/1991) | 트리 순회 | 2022.07.21
 
 
 
