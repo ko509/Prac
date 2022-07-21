@@ -182,6 +182,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1504](http://noj.am/1504) | 특정한 최단 경로 | 2022.07.19
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1629](http://noj.am/1629) | 곱셈 | 2022.07.20
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1916](http://noj.am/1916) | 최소 비용 구하기 | 2022.07.20
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1932](http://noj.am/1932) | 정수 삼각형 | 2022.07.21
 
 
 
