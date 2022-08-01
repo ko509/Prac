@@ -188,6 +188,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1991](http://noj.am/1991) | 트리 순회 | 2022.07.21
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2206](http://noj.am/2206) | 벽 부수고 이동하기 | 2022.07.22
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [15652](http://noj.am/15652) | N과 M(4) | 2022.07.22
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [3036](http://noj.am/3036) | 링 | 2022.08.01
 
 
 
