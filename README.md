@@ -189,6 +189,8 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2206](http://noj.am/2206) | 벽 부수고 이동하기 | 2022.07.22
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [15652](http://noj.am/15652) | N과 M(4) | 2022.07.22
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [3036](http://noj.am/3036) | 링 | 2022.08.01
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [12852](http://noj.am/12852) | 1로 만들기 2 | 2022.08.11
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [12865](http://noj.am/12865) | 평범한 배낭 | 2022.08.11
 
 
 
@@ -237,3 +239,4 @@ level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/60057) | �
 level1 | [42862](https://programmers.co.kr/learn/courses/30/lessons/42862) | 체육복 | 2022.07.08
 level2 | [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | 큰 수 만들기 | 2022.07.08
 level3 | [42861](https://programmers.co.kr/learn/courses/30/lessons/42861) | 섬 연결하기 | 2022.07.14
+level2 | [42861](https://programmers.co.kr/learn/courses/30/lessons/60059) | 자물쇠와 열쇠 | 2022.08.11
