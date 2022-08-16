@@ -191,6 +191,8 @@
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [3036](http://noj.am/3036) | 링 | 2022.08.01
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [12852](http://noj.am/12852) | 1로 만들기 2 | 2022.08.11
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [12865](http://noj.am/12865) | 평범한 배낭 | 2022.08.11
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [9465](http://noj.am/9465) | 스티커 | 2022.08.12
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [13549](http://noj.am/13549) | 숨바꼭질 3 | 2022.08.16
 
 
 
