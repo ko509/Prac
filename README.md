@@ -194,6 +194,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [9465](http://noj.am/9465) | 스티커 | 2022.08.12
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [13549](http://noj.am/13549) | 숨바꼭질 3 | 2022.08.16
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [9084](http://noj.am/9084) | 동전 | 2022.08.17
+<img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [2263](http://noj.am/2263) | 트리의 순회 | 2022.08.17
 
 
 
