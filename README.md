@@ -195,6 +195,9 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [13549](http://noj.am/13549) | 숨바꼭질 3 | 2022.08.16
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [9084](http://noj.am/9084) | 동전 | 2022.08.17
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [2263](http://noj.am/2263) | 트리의 순회 | 2022.08.17
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20040](http://noj.am/20040) | 사이클 게임 | 2022.08.18
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2467](http://noj.am/2467) | 용액 | 2022.08.18
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14728](http://noj.am/14728) | 벼락치기 | 2022.08.19
 
 
 
