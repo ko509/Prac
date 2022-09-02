@@ -253,5 +253,5 @@ level2 | [60059](https://programmers.co.kr/learn/courses/30/lessons/60059) | 자
 level2 | [81302](https://programmers.co.kr/learn/courses/30/lessons/81302) | 거리두기 확인하기 | 2022.08.23
 level2 | [67257](https://programmers.co.kr/learn/courses/30/lessons/67257) | 수식 최대화 | 2022.08.24
 level2 | [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | 프린터 | 2022.08.26
-level2 | [42860](https://programmers.co.kr/learn/courses/30/lessons/42860) | 프린터 | 2022.09.01
+level2 | [42860](https://programmers.co.kr/learn/courses/30/lessons/42860) | 조이스틱 | 2022.09.01
 level1 | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | 신고 결과 받기 | 2022.09.02
