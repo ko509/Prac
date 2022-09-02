@@ -198,6 +198,9 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [20040](http://noj.am/20040) | 사이클 게임 | 2022.08.18
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2467](http://noj.am/2467) | 용액 | 2022.08.18
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14728](http://noj.am/14728) | 벼락치기 | 2022.08.19
+<img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [10775](http://noj.am/10775) | 공항 | 2022.09.01
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [11779](http://noj.am/11779) | 최소비용 구하기 2 | 2022.09.01
+<img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [9328](http://noj.am/9328) | 열쇠 | 2022.09.01
 
 
 
@@ -246,4 +249,9 @@ level2 | [링크](https://programmers.co.kr/learn/courses/30/lessons/60057) | �
 level1 | [42862](https://programmers.co.kr/learn/courses/30/lessons/42862) | 체육복 | 2022.07.08
 level2 | [42883](https://programmers.co.kr/learn/courses/30/lessons/42883) | 큰 수 만들기 | 2022.07.08
 level3 | [42861](https://programmers.co.kr/learn/courses/30/lessons/42861) | 섬 연결하기 | 2022.07.14
-level2 | [42861](https://programmers.co.kr/learn/courses/30/lessons/60059) | 자물쇠와 열쇠 | 2022.08.11
+level2 | [60059](https://programmers.co.kr/learn/courses/30/lessons/60059) | 자물쇠와 열쇠 | 2022.08.11
+level2 | [81302](https://programmers.co.kr/learn/courses/30/lessons/81302) | 거리두기 확인하기 | 2022.08.23
+level2 | [67257](https://programmers.co.kr/learn/courses/30/lessons/67257) | 수식 최대화 | 2022.08.24
+level2 | [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | 프린터 | 2022.08.26
+level2 | [42860](https://programmers.co.kr/learn/courses/30/lessons/42860) | 프린터 | 2022.09.01
+level1 | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | 신고 결과 받기 | 2022.09.02
