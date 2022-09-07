@@ -256,3 +256,4 @@ level2 | [42587](https://programmers.co.kr/learn/courses/30/lessons/42587) | 프
 level2 | [42860](https://programmers.co.kr/learn/courses/30/lessons/42860) | 조이스틱 | 2022.09.01
 level1 | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | 신고 결과 받기 | 2022.09.02
 level2 | [92342](https://programmers.co.kr/learn/courses/30/lessons/92342) | 양궁 대회 | 2022.09.02
+level2 | [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 | 2022.09.07
