@@ -257,3 +257,4 @@ level2 | [42860](https://programmers.co.kr/learn/courses/30/lessons/42860) | 조
 level1 | [92334](https://programmers.co.kr/learn/courses/30/lessons/92334) | 신고 결과 받기 | 2022.09.02
 level2 | [92342](https://programmers.co.kr/learn/courses/30/lessons/92342) | 양궁 대회 | 2022.09.02
 level2 | [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 | 2022.09.07
+level2 | [92335](https://programmers.co.kr/learn/courses/30/lessons/92335) | k진수에서 소수 구하기 | 2022.09.08
