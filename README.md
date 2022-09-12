@@ -260,4 +260,5 @@ level2 | [92342](https://programmers.co.kr/learn/courses/30/lessons/92342) | 양
 level2 | [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 | 2022.09.07
 level2 | [92335](https://programmers.co.kr/learn/courses/30/lessons/92335) | k진수에서 소수 구하기 | 2022.09.08
 level1 | [118666](https://programmers.co.kr/learn/courses/30/lessons/118666) | 성격 유형 검사 | 2022.09.10
+level2 | [12951](https://programmers.co.kr/learn/courses/30/lessons/12951) | JadenCase 문자열 만들기 | 2022.09.13
 
