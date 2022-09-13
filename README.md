@@ -263,5 +263,6 @@ level1 | [118666](https://programmers.co.kr/learn/courses/30/lessons/118666) | �
 level2 | [12951](https://programmers.co.kr/learn/courses/30/lessons/12951) | JadenCase 문자열 만들기 | 2022.09.13
 level2 | [118667](https://programmers.co.kr/learn/courses/30/lessons/118667) | 두 큐 합 같게 만들기 | 2022.09.13
 level3 | [118669](https://programmers.co.kr/learn/courses/30/lessons/118669) | 등산코스 정하기 | 2022.09.13
+level2 | [1835](https://programmers.co.kr/learn/courses/30/lessons/1835) | 단체 사진  | 2022.09.13
 
 
