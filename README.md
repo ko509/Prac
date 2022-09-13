@@ -261,4 +261,7 @@ level2 | [42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | 다
 level2 | [92335](https://programmers.co.kr/learn/courses/30/lessons/92335) | k진수에서 소수 구하기 | 2022.09.08
 level1 | [118666](https://programmers.co.kr/learn/courses/30/lessons/118666) | 성격 유형 검사 | 2022.09.10
 level2 | [12951](https://programmers.co.kr/learn/courses/30/lessons/12951) | JadenCase 문자열 만들기 | 2022.09.13
+level2 | [118667](https://programmers.co.kr/learn/courses/30/lessons/118667) | 두 큐 합 같게 만들기 | 2022.09.13
+level3 | [118669](https://programmers.co.kr/learn/courses/30/lessons/118669) | 등산코스 정하기 | 2022.09.13
+
 
