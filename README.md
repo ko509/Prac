@@ -264,5 +264,6 @@ level2 | [12951](https://programmers.co.kr/learn/courses/30/lessons/12951) | Jad
 level2 | [118667](https://programmers.co.kr/learn/courses/30/lessons/118667) | 두 큐 합 같게 만들기 | 2022.09.13
 level3 | [118669](https://programmers.co.kr/learn/courses/30/lessons/118669) | 등산코스 정하기 | 2022.09.13
 level2 | [1835](https://programmers.co.kr/learn/courses/30/lessons/1835) | 단체 사진  | 2022.09.13
+level1 | [72410](https://programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천  | 2022.09.19
 
 
