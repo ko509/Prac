@@ -266,5 +266,6 @@ level3 | [118669](https://programmers.co.kr/learn/courses/30/lessons/118669) | �
 level2 | [1835](https://programmers.co.kr/learn/courses/30/lessons/1835) | 단체 사진  | 2022.09.13
 level1 | [72410](https://programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천  | 2022.09.19
 level2 | [72411](https://programmers.co.kr/learn/courses/30/lessons/72411) | 메뉴 리뉴얼 | 2022.09.19
+level3 | [72413](https://programmers.co.kr/learn/courses/30/lessons/72413) | 합승 택시  | 2022.09.19
 
 
