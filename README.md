@@ -267,5 +267,6 @@ level2 | [1835](https://programmers.co.kr/learn/courses/30/lessons/1835) | 단�
 level1 | [72410](https://programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천  | 2022.09.19
 level2 | [72411](https://programmers.co.kr/learn/courses/30/lessons/72411) | 메뉴 리뉴얼 | 2022.09.19
 level3 | [72413](https://programmers.co.kr/learn/courses/30/lessons/72413) | 합승 택시  | 2022.09.19
+level3 | [72414](https://programmers.co.kr/learn/courses/30/lessons/72414) | 광고 삽입 | 2022.09.20
 
 
