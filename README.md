@@ -204,6 +204,7 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14179](http://noj.am/14179) | 빗물 | 2022.09.10
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [4991](http://noj.am/4991) | 로봇 청소기 | 2022.09.27
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [4195](http://noj.am/4195) | 친구 네트워크 | 2022.09.28
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1662](http://noj.am/1662) | 압축 | 2022.10.04
 
 
 
