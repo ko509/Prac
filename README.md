@@ -205,6 +205,10 @@
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [4991](http://noj.am/4991) | 로봇 청소기 | 2022.09.27
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [4195](http://noj.am/4195) | 친구 네트워크 | 2022.09.28
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1662](http://noj.am/1662) | 압축 | 2022.10.04
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [12886](http://noj.am/12886) | 돌 그룹 | 2022.10.05
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2110](http://noj.am/2110) | 공유기 설치 | 2022.10.06
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2512](http://noj.am/2512) | 예산 | 2022.10.06
+
 
 
 
