@@ -208,6 +208,8 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [12886](http://noj.am/12886) | 돌 그룹 | 2022.10.05
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2110](http://noj.am/2110) | 공유기 설치 | 2022.10.06
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2512](http://noj.am/2512) | 예산 | 2022.10.06
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [5904](http://noj.am/5904) | Moo게임 | 2022.10.07
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2473](http://noj.am/2473) | 세 용액 | 2022.10.07
 
 
 
