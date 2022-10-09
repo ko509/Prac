@@ -210,6 +210,8 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [2512](http://noj.am/2512) | 예산 | 2022.10.06
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [5904](http://noj.am/5904) | Moo게임 | 2022.10.07
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2473](http://noj.am/2473) | 세 용액 | 2022.10.07
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2234](http://noj.am/2234) | 성곽 | 2022.10.09
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16432](http://noj.am/16432) | 떡 장수와 호랑이 | 2022.10.09
 
 
 
