@@ -212,6 +212,10 @@
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2473](http://noj.am/2473) | 세 용액 | 2022.10.07
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2234](http://noj.am/2234) | 성곽 | 2022.10.09
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16432](http://noj.am/16432) | 떡 장수와 호랑이 | 2022.10.09
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16432](http://noj.am/16432) | 떡 장수와 호랑이 | 2022.10.09
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16637](http://noj.am/16637) | 괄호 추가하기 | 2022.10.10
+<img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [17837](http://noj.am/17837) | 새로운 게임 2 | 2022.10.10
+<img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [21611](http://noj.am/21611) | 마법사 상어와 블리자드 | 2022.10.12
 
 
 
