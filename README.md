@@ -218,6 +218,7 @@
 <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [21611](http://noj.am/21611) | 마법사 상어와 블리자드 | 2022.10.12
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [20061](http://noj.am/20061) | 모노미노도미노 2 | 2022.10.12
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1446](http://noj.am/1446) | 지름길 | 2022.10.12
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [5014](http://noj.am/5014) | 스타트링크 | 2022.10.13
 
 
 
