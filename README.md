@@ -216,6 +216,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [16637](http://noj.am/16637) | 괄호 추가하기 | 2022.10.10
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [17837](http://noj.am/17837) | 새로운 게임 2 | 2022.10.10
 <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [21611](http://noj.am/21611) | 마법사 상어와 블리자드 | 2022.10.12
+<img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [20061](http://noj.am/20061) | 모노미노도미노 2 | 2022.10.12
 
 
 
