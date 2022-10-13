@@ -219,6 +219,7 @@
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [20061](http://noj.am/20061) | 모노미노도미노 2 | 2022.10.12
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1446](http://noj.am/1446) | 지름길 | 2022.10.12
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [5014](http://noj.am/5014) | 스타트링크 | 2022.10.13
+<img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [19236](http://noj.am/19236) | 청소년 상어 | 2022.10.13
 
 
 
