@@ -222,6 +222,7 @@
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [19236](http://noj.am/19236) | 청소년 상어 | 2022.10.13
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [2933](http://noj.am/2933) | 미네랄 | 2022.10.14
 <img src="https://static.solved.ac/tier_small/16.svg" height="18px"/> | [5373](http://noj.am/5373) | 큐빙 | 2022.10.15
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1922](http://noj.am/1922) | 네트워크 연결 | 2022.10.18
 
 
 
