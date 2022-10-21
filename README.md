@@ -226,6 +226,7 @@
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [2252](http://noj.am/2252) | 줄 세우기 | 2022.10.18
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1956](http://noj.am/1956) | 운동 | 2022.10.19
 <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [1019](http://noj.am/1019) | 책 페이지 | 2022.10.19
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1197](http://noj.am/1197) | 최소 스패닝 트리 | 2022.10.21
 
 
 
