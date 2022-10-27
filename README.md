@@ -229,6 +229,8 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1197](http://noj.am/1197) | 최소 스패닝 트리 | 2022.10.21
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [12912](http://noj.am/12912) | A와 B 2 | 2022.10.22
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [20922](http://noj.am/20922) |  겹치는 건 싫어 | 2022.10.22
+<img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [16967](http://noj.am/16967) |  배열 복원하기 | 2022.10.27
+<img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [2632](http://noj.am/2632) |  피자 판매 | 2022.10.27
 
 
 
