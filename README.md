@@ -302,3 +302,4 @@ level3 | [118668](https://programmers.co.kr/learn/courses/30/lessons/118668) | �
 level3 | [60061](https://programmers.co.kr/learn/courses/30/lessons/60061) | 기둥과 보  | 2022.10.05
 level3 | [60062](https://programmers.co.kr/learn/courses/30/lessons/60062) | 외벽 점검 | 2022.10.05
 level2 | [12981](https://programmers.co.kr/learn/courses/30/lessons/12981) | 영어 끝말잇기 | 2022.10.15
+level2 | [1844](https://programmers.co.kr/learn/courses/30/lessons/1844) | 게임 맵 최단거리 | 2022.10.28
