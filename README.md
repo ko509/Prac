@@ -233,6 +233,7 @@
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [2632](http://noj.am/2632) |  피자 판매 | 2022.10.27
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1027](http://noj.am/1027) | 고층 건물 | 2022.10.28
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [10025](http://noj.am/10025) | 게으른 백곰 | 2022.11.02
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1890](http://noj.am/1890) |  | 2022.11.02
 
 
 
