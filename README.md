@@ -236,6 +236,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1890](http://noj.am/1890) | 점프 | 2022.11.02
 <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [1700](http://noj.am/1700) | 멀티탭 스케줄링 | 2022.11.03
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2166](http://noj.am/2166) | 다각형의 면적 | 2022.11.03
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1261](http://noj.am/1261) | 알고스팟 | 2022.11.04
 
 
 
