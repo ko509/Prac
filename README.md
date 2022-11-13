@@ -237,6 +237,14 @@
 <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [1700](http://noj.am/1700) | 멀티탭 스케줄링 | 2022.11.03
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2166](http://noj.am/2166) | 다각형의 면적 | 2022.11.03
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1261](http://noj.am/1261) | 알고스팟 | 2022.11.04
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2502](http://noj.am/2502) | 떡 먹는 호랑이 | 2022.11.05
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17281](http://noj.am/17281) | ⚾ | 2022.11.06
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1484](http://noj.am/1484) | 다이어트 | 2022.11.08
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1717](http://noj.am/1717) | 집합의 표현 | 2022.11.09
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1774](http://noj.am/1774) | 우주신과의 교감 | 2022.11.09
+<img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1052](http://noj.am/1052) | 물병 | 2022.11.10
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1826](http://noj.am/1826) | 연료 채우기 | 2022.11.10
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1038](http://noj.am/1038) | 감소하는 수 | 2022.11.10
 
 
 
