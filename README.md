@@ -245,6 +245,7 @@
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [1052](http://noj.am/1052) | 물병 | 2022.11.10
 <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1826](http://noj.am/1826) | 연료 채우기 | 2022.11.10
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1038](http://noj.am/1038) | 감소하는 수 | 2022.11.10
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2493](http://noj.am/2493) | 탑 | 2022.11.13
 
 
 
