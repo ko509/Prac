@@ -248,6 +248,7 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2493](http://noj.am/2493) | 탑 | 2022.11.13
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17471](http://noj.am/17471) | 게리맨더링 | 2022.11.14
 <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2583](http://noj.am/2583) | 영역 구하기 | 2022.11.15
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [8983](http://noj.am/8983) | 사냥꾼 | 2022.11.16
 
 
 
