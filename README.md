@@ -251,6 +251,7 @@
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [8983](http://noj.am/8983) | 사냥꾼 | 2022.11.16
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [19942](http://noj.am/19942) | 다이어트 | 2022.12.01
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [14620](http://noj.am/14620) | 꽃길 | 2022.12.15
+<img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [1343](http://noj.am/1343) | 폴리오미노 | 2022.12.16
 
 
 
