@@ -253,6 +253,7 @@
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [14620](http://noj.am/14620) | 꽃길 | 2022.12.15
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [1343](http://noj.am/1343) | 폴리오미노 | 2022.12.16
 <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2828](http://noj.am/2828) | 사과 담기 게임 | 2023.03.06
+<img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [2217](http://noj.am/2217) | 로프 | 2023.06.12
 
 
 
