@@ -256,6 +256,7 @@
 <img src="https://static.solved.ac/tier_small/7.svg" height="18px"/> | [2217](http://noj.am/2217) | 로프 | 2023.06.12
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [13305](http://noj.am/13305) | 주유소 | 2023.06.13
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2075](http://noj.am/2075) | N번째 큰 수 | 2023.07.03
+<img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2304](http://noj.am/2304) | 창고 다각형 | 2023.08.16
 
 
 
