@@ -257,6 +257,8 @@
 <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [13305](http://noj.am/13305) | 주유소 | 2023.06.13
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2075](http://noj.am/2075) | N번째 큰 수 | 2023.07.03
 <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2304](http://noj.am/2304) | 창고 다각형 | 2023.08.16
+<img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2138](http://noj.am/2138) | 전구와 스위치 | 2023.08.20
+<img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2631](http://noj.am/2631) | 줄세우기 | 2023.08.20
 
 
 
