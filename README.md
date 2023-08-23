@@ -261,6 +261,7 @@
 <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2138](http://noj.am/2138) | 전구와 스위치 | 2023.08.20
 <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2631](http://noj.am/2631) | 줄세우기 | 2023.08.20
 <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [28457](http://noj.am/28457) | Every? Only One's Marble | 2023.08.21
+<img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [19582](http://noj.am/19582) | 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여 | 2023.08.23
 
 
 
