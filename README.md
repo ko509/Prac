@@ -266,6 +266,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 255 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [19582](http://noj.am/19582) | 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여 | 2023.08.23
 256 | <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [13460](http://noj.am/13460) | 구슬 탈출2 | 2023.08.26
 257 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [2515](http://noj.am/2515) | 전시장 | 2023.08.26
+258 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [12100](http://noj.am/12100) | 2048 (Easy) | 2023.08.27
 
 
 
