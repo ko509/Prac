@@ -267,7 +267,8 @@ No | 레벨 | 번호 | 제목 | 날짜
 256 | <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [13460](http://noj.am/13460) | 구슬 탈출2 | 2023.08.26
 257 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [2515](http://noj.am/2515) | 전시장 | 2023.08.26
 258 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [12100](http://noj.am/12100) | 2048 (Easy) | 2023.08.27
-259 | <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [17484](http://noj.am/17484) | 진우의 달 여행 (Small) | 2023.08.28
+259 | <img src="https://static.solved.ac/tier_small/1.svg" height="18px"/> | [1271](http://noj.am/1271) | 엄청난 부자 2 | 2023.08.27
+260 | <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [17484](http://noj.am/17484) | 진우의 달 여행 (Small) | 2023.08.28
 
 
 
