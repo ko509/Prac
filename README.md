@@ -259,16 +259,20 @@ No | 레벨 | 번호 | 제목 | 날짜
 248 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [9251](http://noj.am/9251) | LCS | 2023.07.30
 249 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [3020](http://noj.am/3020) | 개똥 벌레 | 2023.07.30
 250 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2665](http://noj.am/2665) | 미로 만들기 | 2023.07.30
-251 | <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2304](http://noj.am/2304) | 창고 다각형 | 2023.08.16
-252 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2138](http://noj.am/2138) | 전구와 스위치 | 2023.08.20
-253 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2631](http://noj.am/2631) | 줄세우기 | 2023.08.20
-254 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [28457](http://noj.am/28457) | Every? Only One's Marble | 2023.08.21
-255 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [19582](http://noj.am/19582) | 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여 | 2023.08.23
-256 | <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [13460](http://noj.am/13460) | 구슬 탈출2 | 2023.08.26
-257 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [2515](http://noj.am/2515) | 전시장 | 2023.08.26
-258 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [12100](http://noj.am/12100) | 2048 (Easy) | 2023.08.27
-259 | <img src="https://static.solved.ac/tier_small/1.svg" height="18px"/> | [1271](http://noj.am/1271) | 엄청난 부자 2 | 2023.08.27
-260 | <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [17484](http://noj.am/17484) | 진우의 달 여행 (Small) | 2023.08.28
+251 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [14714](http://noj.am/14714) | 홍삼 게임 Easy | 2023.07.31
+252 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [7579](http://noj.am/7579) | 앱 | 2023.08.06
+253 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1644](http://noj.am/1644) | 소수의 연속합 | 2023.08.06
+254 | <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [2304](http://noj.am/2304) | 창고 다각형 | 2023.08.16
+255 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2138](http://noj.am/2138) | 전구와 스위치 | 2023.08.20
+256 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2631](http://noj.am/2631) | 줄세우기 | 2023.08.20
+257 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [28457](http://noj.am/28457) | Every? Only One's Marble | 2023.08.21
+258 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [19582](http://noj.am/19582) | 200년간 폐관수련했더니 PS 최강자가 된 건에 대하여 | 2023.08.23
+259 | <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [13460](http://noj.am/13460) | 구슬 탈출2 | 2023.08.26
+260 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [2515](http://noj.am/2515) | 전시장 | 2023.08.26
+261 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [12100](http://noj.am/12100) | 2048 (Easy) | 2023.08.27
+262 | <img src="https://static.solved.ac/tier_small/1.svg" height="18px"/> | [1271](http://noj.am/1271) | 엄청난 부자 2 | 2023.08.27
+263 | <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [17484](http://noj.am/17484) | 진우의 달 여행 (Small) | 2023.08.28
+264 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [6087](http://noj.am/6087) | 레이저 통신 | 2023.08.29
 
 
 
