@@ -273,6 +273,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 262 | <img src="https://static.solved.ac/tier_small/1.svg" height="18px"/> | [1271](http://noj.am/1271) | 엄청난 부자 2 | 2023.08.27
 263 | <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [17484](http://noj.am/17484) | 진우의 달 여행 (Small) | 2023.08.28
 264 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [6087](http://noj.am/6087) | 레이저 통신 | 2023.08.29
+265 | <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11660](http://noj.am/11660) | 구간 합 구하기 5 | 2023.08.29
 
 
 
