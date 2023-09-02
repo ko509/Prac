@@ -275,6 +275,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 264 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [6087](http://noj.am/6087) | 레이저 통신 | 2023.08.29
 265 | <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [11660](http://noj.am/11660) | 구간 합 구하기 5 | 2023.08.29
 266 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1069](http://noj.am/1069) | 집으로 | 2023.08.30
+267 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1005](http://noj.am/1005) | ACM Craft | 2023.09.02
 
 
 
