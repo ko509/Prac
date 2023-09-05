@@ -278,7 +278,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 267 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1005](http://noj.am/1005) | ACM Craft | 2023.09.02
 268 | <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [18809](http://noj.am/18809) | Gaaaaaaaaaarden | 2023.09.03
 269 | <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [29615](http://noj.am/29615) | 알파빌과 베타빌 | 2023.09.04
-270 | <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [21922](http://noj.am/21922) | 학부 연구생 민상 | 2023.09.05
+270 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [21922](http://noj.am/21922) | 학부 연구생 민상 | 2023.09.05
 
 
 
