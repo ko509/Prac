@@ -280,6 +280,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 269 | <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [29615](http://noj.am/29615) | 알파빌과 베타빌 | 2023.09.04
 270 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [21922](http://noj.am/21922) | 학부 연구생 민상 | 2023.09.05
 271 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [17396](http://noj.am/17396) | 백도어 | 2023.09.06
+272 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [30024](http://noj.am/30024) | 옥수수밭 | 2023.09.18
 
 
 
