@@ -282,6 +282,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 271 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [17396](http://noj.am/17396) | 백도어 | 2023.09.06
 272 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [30024](http://noj.am/30024) | 옥수수밭 | 2023.09.18
 273 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2470](http://noj.am/2470) | 두 용액 | 2023.09.19
+274 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [1715](http://noj.am/1715) | 카드 정렬하기 | 2023.09.20
 
 
 
