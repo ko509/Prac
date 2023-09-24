@@ -287,6 +287,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 276 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [11657](http://noj.am/11657) | 타임머신 | 2023.09.23
 277 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [9663](http://noj.am/9663) | N-Queen | 2023.09.24
 278 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17298](http://noj.am/17298) | 오큰수 | 2023.09.24
+279 | <img src="https://static.solved.ac/tier_small/16.svg" height="18px"/> | [19541](http://noj.am/19541) | 역학 조사 | 2023.09.24
 
 
 
