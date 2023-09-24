@@ -286,6 +286,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 275 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [18405](http://noj.am/18405) | 경쟁적 전염 | 2023.09.22
 276 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [11657](http://noj.am/11657) | 타임머신 | 2023.09.23
 277 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [9663](http://noj.am/9663) | N-Queen | 2023.09.24
+278 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17298](http://noj.am/17298) | 오큰수 | 2023.09.24
 
 
 
