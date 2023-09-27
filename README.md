@@ -289,6 +289,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 278 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17298](http://noj.am/17298) | 오큰수 | 2023.09.24
 279 | <img src="https://static.solved.ac/tier_small/16.svg" height="18px"/> | [19541](http://noj.am/19541) | 역학 조사 | 2023.09.24
 280 | <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [2042](http://noj.am/2042) | 구간 합 구하기 | 2023.09.25
+281 | <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2156](http://noj.am/2156) | 포도주 시식 | 2023.09.27
 
 
 
