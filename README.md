@@ -291,6 +291,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 280 | <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [2042](http://noj.am/2042) | 구간 합 구하기 | 2023.09.25
 281 | <img src="https://static.solved.ac/tier_small/10.svg" height="18px"/> | [2156](http://noj.am/2156) | 포도주 시식 | 2023.09.27
 282 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [10986](http://noj.am/10986) | 나머지 합 | 2023.09.30
+283 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2239](http://noj.am/2239) | 스도쿠 | 2023.09.30
 
 
 
