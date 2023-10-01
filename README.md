@@ -294,6 +294,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 283 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2239](http://noj.am/2239) | 스도쿠 | 2023.09.30
 284 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [3055](http://noj.am/3055) | 탈출 | 2023.10.01
 285 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [9205](http://noj.am/9205) | 맥주 마시면서 걸어가기 | 2023.10.01
+286 | <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [1194](http://noj.am/1194) | 달이 차오른다, 가자 | 2023.10.01
 
 
 
