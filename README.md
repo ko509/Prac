@@ -293,6 +293,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 282 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [10986](http://noj.am/10986) | 나머지 합 | 2023.09.30
 283 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [2239](http://noj.am/2239) | 스도쿠 | 2023.09.30
 284 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [3055](http://noj.am/3055) | 탈출 | 2023.10.01
+285 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [9205](http://noj.am/9205) | 맥주 마시면서 걸어가기 | 2023.10.01
 
 
 
