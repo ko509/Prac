@@ -301,6 +301,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 290 | <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [30205](http://noj.am/30205) | 전역 임무 | 2023.10.09
 291 | <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [25206](http://noj.am/25206) | 너의평점은 | 2023.10.09
 292 | <img src="https://static.solved.ac/tier_small/9.svg" height="18px"/> | [11053](http://noj.am/11053) | 가장 긴 증가하는 부분 수열 | 2023.10.10
+293 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [30206](http://noj.am/30206) | 차량 배치 | 2023.10.10
 
 
 
