@@ -304,6 +304,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 293 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [30206](http://noj.am/30206) | 차량 배치 | 2023.10.10
 294 | <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [10815](http://noj.am/10815) | 숫자 카드 | 2023.10.12
 295 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [1202](http://noj.am/1202) | 보석 도둑 | 2023.10.12
+296 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17069](http://noj.am/17069) | 파이프 옮기기 2 | 2023.10.15
 
 
 
