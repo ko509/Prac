@@ -305,6 +305,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 294 | <img src="https://static.solved.ac/tier_small/6.svg" height="18px"/> | [10815](http://noj.am/10815) | 숫자 카드 | 2023.10.12
 295 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [1202](http://noj.am/1202) | 보석 도둑 | 2023.10.12
 296 | <img src="https://static.solved.ac/tier_small/12.svg" height="18px"/> | [17069](http://noj.am/17069) | 파이프 옮기기 2 | 2023.10.15
+297 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [5639](http://noj.am/5639) | 이진 검색 트리 | 2023.10.16
 
 
 
