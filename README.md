@@ -309,6 +309,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 298 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [1655](http://noj.am/1655) | 가운데를 말해요 | 2023.10.19
 299 | <img src="https://static.solved.ac/tier_small/13.svg" height="18px"/> | [1520](http://noj.am/1520) | 내리막길 | 2023.10.19
 300 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2294](http://noj.am/2294) | 동전2 | 2023.10.23
+301 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [13023](http://noj.am/13023) | ABCDE | 2023.10.23
 
 
 
