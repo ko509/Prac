@@ -312,6 +312,7 @@ No | 레벨 | 번호 | 제목 | 날짜
 301 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [13023](http://noj.am/13023) | ABCDE | 2023.10.23
 302 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [1068](http://noj.am/1068) | 트리 | 2023.10.24
 303 | <img src="https://static.solved.ac/tier_small/14.svg" height="18px"/> | [12015](http://noj.am/12015) | 가장 긴 증가하는 부분 수열2 | 2023.10.24
+304 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2293](http://noj.am/2293) | 동전1 | 2023.10.25
 
 
 
