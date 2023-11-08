@@ -318,6 +318,9 @@ No | 레벨 | 번호 | 제목 | 날짜
 307 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [2170](http://noj.am/2170) | 선 긋기 | 2023.10.26
 308 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [15989](http://noj.am/15989) | 1,2,3 더하기 4 | 2023.10.26
 309 | <img src="https://static.solved.ac/tier_small/15.svg" height="18px"/> | [1300](http://noj.am/1300) | K번째 수 | 2023.10.29
+310 | <img src="https://static.solved.ac/tier_small/11.svg" height="18px"/> | [30405](http://noj.am/30405) | 박물관 견학 | 2023.11.01
+311 | <img src="https://static.solved.ac/tier_small/8.svg" height="18px"/> | [1459](http://noj.am/1459) | 걷기 | 2023.11.08
+
 
 
 
